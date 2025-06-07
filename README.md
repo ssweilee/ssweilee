@@ -24,6 +24,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-28B6F6?style=flat&logo=circleci&logoColor=white)
 
 **Other:**  
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white)
