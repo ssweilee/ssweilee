@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Sandy
+### 👋 Hi there, I'm Sandy <img src="https://komarev.com/ghpvc/?username=ssweilee&color=1ABC9C" alt="ssweilee" />
 I'm a software engineer merging software development expertise with a curiosity for building innovative solutions.
 
 
@@ -37,5 +37,5 @@ I'm a software engineer merging software development expertise with a curiosity 
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ssweilee)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tzuweilee)  
 - 📮 Email: [tzuweilee.20@gmail.com]  
