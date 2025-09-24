@@ -1,9 +1,10 @@
 ### 👋 Hi there, I'm Sandy
+I'm a software engineer merging software development expertise with a curiosity for building innovative solutions.
+
 
 🎓 CS @ University of Bristol (2025)    
 💼 Former marketer/advertiser to software engineering  
-⚡ Specialising in full-stack systems and user-centred design
-
+⚡ Specialising in full-stack development and user-centred design
 
 ---
 
