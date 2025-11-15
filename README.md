@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Sandy <img src="https://komarev.com/ghpvc/?username=ssweilee&color=1ABC9C" alt="ssweilee" />
 
-Graduate Software Engineer | Full-Stack Dev | MarTech/AdTech Background 
+Graduate Software Engineer | Full-Stack & Cloud Development (React, Node.js, AWS) | MarTech/AdTech Background 
 
 I'm a software engineer merging software development expertise with a curiosity for building innovative solutions.
 
