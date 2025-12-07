@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | AI & Cloud Engineer | CS Graduate (University of Bristol, 2025)**
 
-I build **AI-powered apps**, **serverless backends**, and **data-driven dashboard** that turn unstructured data into actionable insights. With an AdTech background and industry collaboration experience, I bring a user-centered and product-oriented mindset to technical problem solving.
+I build **AI-powered apps**, **serverless backends**, and **data-driven dashboard** that turn unstructured data into actionable insights. With an Digital marketing and Product background, I bring a user-centered and product-oriented mindset to technical problem solving.
 
 
 ## 🚀 What I Focus On
